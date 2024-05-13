@@ -20,4 +20,4 @@ print("My name is: %s and my age is %d. My Gf name is %s and her age is %d." % (
 #  Aproach 4
     # Format function.
     
-
+print("My name is: {} and my age is {}. My Gf name is {} and her age is {}." .format(rushabh, rushabh_age, rushabh_gf, rushabh_gf_age))
